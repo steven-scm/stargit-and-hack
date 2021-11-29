@@ -1,0 +1,25 @@
+h1{
+    background-color: #00D1AE;
+    border: 1px solid #17212e;
+    text-decoration:wavy;
+    text-align: center;
+}
+
+h2{
+    background-color: #00D1AE;
+    border: 1px solid #17212e;
+    text-decoration-color:hsl(9, 100%, 64%);
+    border-style: dashed;
+    text-decoration-line: overline;
+    text-align: center;
+}
+ul li {
+    list-style:lower-latin;
+    font-size: 1.5rem;
+  }
+img{
+    border-style:double;
+}
+body{
+    background:teal;
+}
